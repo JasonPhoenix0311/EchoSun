@@ -116,7 +116,7 @@ Our multidisciplinary team combines expertise in:
 ## 📚 Documentation
 ![Business Plan](https://docs.google.com/document/d/1gyxBBnqjq5CjN2Y3Wa_jHhi4Uh9Taw_AZpKNdTDWZ18/edit?tab=t.zc2zkr5b43mj#heading=h.pt50xyn7bffa)
 ![System Architecture](https://docs.google.com/document/d/1gyxBBnqjq5CjN2Y3Wa_jHhi4Uh9Taw_AZpKNdTDWZ18/edit?tab=t.xtz6vmdnblob#heading=h.fjeqaucizwbv)
-- [Statistics](https://docs.google.com/document/d/1gyxBBnqjq5CjN2Y3Wa_jHhi4Uh9Taw_AZpKNdTDWZ18/edit?tab=t.xtz6vmdnblob#heading=h.fjeqaucizwbv)
+![Statistics](https://docs.google.com/document/d/1gyxBBnqjq5CjN2Y3Wa_jHhi4Uh9Taw_AZpKNdTDWZ18/edit?tab=t.xtz6vmdnblob#heading=h.fjeqaucizwbv)
 
 ## 📞 Contact: [55-5945-4340]
 **Project Lead**: [Erick Mauricio Ramirez Arias]  
